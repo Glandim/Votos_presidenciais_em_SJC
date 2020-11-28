@@ -2,6 +2,12 @@
 
  Essa é uma análise acadêmica unicamente para afins de estudo.
  
+ # Autores da análise:
+ 
+ [Gabriel Augusto Landim](https://github.com/Glandim)
+ 
+ [Thyago Odorico Garcia](https://github.com/togarci)
+
  # Fontes dos dados:
  
  [TSE-Rrpositório de dados eleitorais](https://www.tse.jus.br/hotsites/pesquisas-eleitorais/resultados_anos/2018.html)
@@ -14,8 +20,4 @@
  
  Podemos observar também que as regiões se dividem na escolha do segundo colocado, como por exemplo nas zonas 127 e 412 o segundo candidato mais votado foi o candidato do Partido Democrático Trabalhista Ciro Gomes, já nas zonas 411 e 282 o segundo lugar vai para o candidato do partido dos trabalhadores Fernando Haddad, porem para ambos a diferença de votos em relação ao primeiro colocado e exorbitante.
  
- # Autores da análise:
  
- [Gabriel Augusto Landim](https://github.com/Glandim)
- 
- [Thyago Odorico Garcia](https://github.com/togarci)
